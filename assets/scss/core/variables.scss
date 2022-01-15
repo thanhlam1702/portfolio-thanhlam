@@ -1,0 +1,61 @@
+// size
+$header: 80px;
+$header-mobile: 60px;
+
+// color system
+$primary-color: #D26013E5;
+$cl-main: #000000;
+$cl-main-rgba: rgba(247, 186, 2, 0.1);
+
+// text color
+$text-1: #000000;
+$text-2: #FFFFFF;
+$text-3: #666666;
+$text-4: #7F7F7F;
+$text-main: #D26013E5;
+
+// background color
+$bg-white: #FFFFFF;
+$bg-1: #14191C;
+$bg-2: rgba(255, 255, 255, 0.9);
+$bg-fa: #FAFAFA;
+$bg-hover: rgba(0, 0, 0, .025);
+
+// line color
+$cl-line: #DBE4F2;
+
+// border color 
+$cl-border: #EFEFEF;
+$cl-border-1: #DBDBDB;
+
+// border radius
+$border-radius: 6px;
+
+// box shadow 
+$shadow-1: 0px 32px 64px -24px rgba(9, 30, 66, 0.15);
+$shadow-2: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+$shadow-3: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
+$shadow-4: 0 1px 2px rgba(0, 0, 0, 0.2);
+$shadow-5: 0 12px 20px rgba(0, 0, 0, 0.06);
+
+// animation
+$t: 0.4s;
+$cubic: cubic-bezier(.42, .11, .37, .99);
+
+// responsive
+$xxs-min: 568px;
+$xs-min: 768px;
+$sm-min: 992px;
+$md-min: 1200px;
+$lg-min: 1600px;
+
+$xxs-max: ($xxs-min - 1);
+$xs-max: ($xs-min - 1);
+$sm-max: ($sm-min - 1);
+$md-max: ($md-min - 1);
+$lg-max: ($lg-min - 1);
+
+// size container
+$max-width: 1600px;
+$container-max-width: $max-width;
+$container-width: 1200px;

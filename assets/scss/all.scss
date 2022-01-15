@@ -1,0 +1,16 @@
+// core file
+@import "core/reset";
+@import "core/variables";
+@import "core/mixins";
+@import "core/elements";
+@import "core/lib";
+
+// layouts file less
+@import "layouts/layout";
+@import "layouts/header";
+@import "layouts/footer";
+
+// components file
+
+// pages file
+@import "pages/home";

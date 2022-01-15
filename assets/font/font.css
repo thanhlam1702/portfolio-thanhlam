@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'glysa';
+    src: url('Glysa-Medium.woff2') format('woff2'),
+        url('Glysa-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'ts';
+    src: url('TheScientistRegular.woff2') format('woff2'),
+        url('TheScientistRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'lemonB';
+    src: url('LEMONMILK-Medium.woff2') format('woff2'),
+        url('LEMONMILK-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'lemonN';
+    src: url('LEMONMILK-Regular.woff2') format('woff2'),
+        url('LEMONMILK-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
+
+
